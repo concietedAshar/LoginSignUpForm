@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginDesign</string>
+    <string name="input_Email_hint">Email</string>
+    <string name="input_password">Password</string>
+    <string name="login_button">Login</string>]
+    <string name="forget_password">Forget Password?</string>
+    <string name="goto_register">New User? Register Now</string>
+    <string name="hint_name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_user">Already Have Account?</string>
+    <string name="register">Register</string>
+    <string name="or">OR</string>
+</resources>
